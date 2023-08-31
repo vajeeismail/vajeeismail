@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vajeehullah Ismail</h1>
 <h3 align="center">A student in software engineering undergraduate at SLIATE</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vajeeismail&label=Profile%20views&color=0e75b6&style=flat" alt="vajeeismail" /> https://t4.ftcdn.net/jpg/02/55/73/15/360_F_255731595_eG8ZerN19GVsoXqnqaExufXIiWmfDcih.jpg </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vajeeismail&label=Profile%20views&color=0e75b6&style=flat" alt="vajeeismail" /> 
+   <img src="https://t4.ftcdn.net/jpg/02/55/73/15/360_F_255731595_eG8ZerN19GVsoXqnqaExufXIiWmfDcih.jpg " alt="vajeeismail" /> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
