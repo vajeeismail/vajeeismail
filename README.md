@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wajeebullah</h1>
-<h3 align="center">A student in software engineering undergraduate at SLIATE</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vajeeismail&label=Profile%20views&color=0e75b6&style=flat" alt="vajeeismail" /> 
   
