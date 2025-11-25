@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wajeebullah</h1>
+<h1 align="center">Hi 👋, I'm Vajeefullah</h1>
 <h3 align="center">Web Deeloper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vajeeismail&label=Profile%20views&color=0e75b6&style=flat" alt="vajeeismail" /> </p>
