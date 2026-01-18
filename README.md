@@ -1,19 +1,11 @@
-<h1 align="left">VAJEEFULLAH MI</h1>
 <p align="left">
-I code whatever helps make my life easier.
+I’m a web developer who enjoys building simple, practical solutions that make everyday work easier. I focus on writing clean, maintainable code and turning ideas into functional web experiences. Currently improving my skills in JavaScript, DOM manipulation, and React while building real-world projects.
 </p>
 
-<p align="left">
-🌱 Currently learning <b>JavaScript (JS DOM, React.js)</b><br>
-👨‍💻 Portfolio: <a href="https://wajeebullah.netlify.app/" target="_blank">https://wajeebullah.netlify.app/</a><br>
-📫 Email: <a href="mailto:vajeehvjk@gmail.com">vajeehvjk@gmail.com</a><br>
-📄 Resume: <a href="https://wajeebullah.netlify.app/assests/document/cv/WAJEEBULLAH%20RESUME.pdf" target="_blank">View CV</a>
-</p>
-
----
 
 <h3 align="left">🧰 Languages & Tools</h3>
 <p align="left">
+<!-- Main Stack -->
 <a href="https://react.dev/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 </a>
@@ -55,18 +47,27 @@ I code whatever helps make my life easier.
 <a href="https://wordpress.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
 </a>
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+</a>
+<a href="https://www.shopify.com/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/shopify-1.svg" width="40" height="40"/>
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</a>
 </p>
 
 ---
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vajeeismail&show_icons=true&layout=compact" />
+<!-- GitHub Stats Cards - side by side -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vajeeismail&show_icons=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vajeeismail&show_icons=true" width="48%" />
 </p>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=vajeeismail&show_icons=true" />
+<!-- Streak stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vajeeismail" />
 </p>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vajeeismail" />
-</p>
